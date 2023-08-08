@@ -1,0 +1,68 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+}
+
+body {
+    background-color: #836FFF;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navigation {
+    background-color: #6959CD;
+    color: rgb(18, 20, 23);
+    height: 50px;
+    
+
+}
+
+.navigation ul {
+margin-top: 0;
+padding-left: 0;
+text-align: right;
+height: 50px;
+
+}
+
+.navigation li {
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 100;
+
+}
+
+.navigation nav ul li a {
+    text-decoration: none;
+   color: black;
+}
+
+.profile-title h1 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.profile-title h2 {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+
+}
+
+.imagem_menu {
+text-align: center;
+
+}
+
+
+footer p {
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    padding-top: 200px;
+}
